@@ -21,3 +21,16 @@ console.log(booleanIsLoggedIn)
 let someNumber = 33
 let stringNumber= String(someNumber)
 console.log(typeof stringNumber)
+
+
+// ************************ Operations *********************************
+
+let value = 3
+let negValue = - value
+console.log("negValue");
+
+console.log("1"+ 2 + 2); // prints  122
+console.log(1+2+"2") // prints 32
+console.log(+true) //1 is a value prints 1
+// console.log(true+)  unexpected error
+
